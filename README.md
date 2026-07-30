@@ -1,7 +1,7 @@
 ## about me
 - i play touhou
-- i do random things in my free time
-- currently working on steam but theres no buying games and its bad and made in python
+- i like doing random things with my computer in my free time
+- currently working on college
 
 <!--
 **AttakDoge/AttakDoge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
